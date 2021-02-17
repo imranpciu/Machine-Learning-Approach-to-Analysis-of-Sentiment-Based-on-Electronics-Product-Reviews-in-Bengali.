@@ -1,5 +1,5 @@
 # Machine-Learning-Approach-to-Analysis-of-Sentiment-Based-on-Electronics-Product-Reviews-in-Bengali.
-This Project is mainly based on sentiment analysis of electronic product reviews written in the Bengali language. It is impossible to read manually each comment to find sentiment.
+This Project is mainly based on sentiment analysis of electronic product reviews written in the Bengali language. 
 
 # Objective:
 The purpose of this Project is to understand the idea of what is written in every comment and suggest how many
