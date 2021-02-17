@@ -48,4 +48,4 @@ want to hear decision from a dialogue based clinical expert system, etc.
 * regex
 * nltk
 * bltk
-*scikit-learn
+* scikit-learn
