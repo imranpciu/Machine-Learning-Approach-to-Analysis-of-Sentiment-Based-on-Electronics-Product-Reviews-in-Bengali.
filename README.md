@@ -34,7 +34,7 @@ It is a machine-learning technique to learn the machine how much polarity there 
 sentiment analysis is a subfield of natural language processing (NLP). Sentiment analysis is a
 technique that tries to understand emotions by analyzing the text
 
-# NaturalLanguageProcessing
+# Natural Language Processing
 Natural Language Processing (NLP) refers to AI method of communicating with an intelligent
 system using a natural language such as English. Processing of Natural Language is required
 when you want an intelligent system like robot to perform as per your instructions, when you
